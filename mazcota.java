@@ -5,7 +5,6 @@ public class mazcota {
         private int edad;
         private String especie;
         private String raza;
-
         public Mazcota(String nombre, int edad, String especie, String raza){
             this.nombre=nombre;
             this.edad=edad;
